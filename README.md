@@ -11,7 +11,7 @@ To resolve this insert the Caldendar table into PowerBI desktop and create a rel
 5. Paste the Calendar table code from:
 6. Select Home
 7. Select Close and Apply - the new table will generate.
-8. Create the Relationship between table date fields:
+8. Create the Relationship between table date fields: https://github.com/kzor-el/Australian-date-format-Power-BI-workspace/blob/7e16008608485a64b42f35f221dc56ab76534285/Calendar%20Table
   i. Go to tables
   ii. Select Manage Realtionship
   iii. in the first table field select your orginal data source table and highlight the applicable date column
